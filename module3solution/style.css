@@ -6,6 +6,7 @@ body {
   background-image: url("bgg.jpg");
   background-position:150px;
   background-attachment: fixed;
+  margin:0px;
 }
 ul{
   margin: 10px;
