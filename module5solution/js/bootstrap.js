@@ -2357,7 +2357,7 @@ if (typeof jQuery === 'undefined') {
       if (data.offsetTop    != null) data.offset.top    = data.offsetTop
 
       Plugin.call($spy, data)
-          })
+    })
   })
 
 }(jQuery);
